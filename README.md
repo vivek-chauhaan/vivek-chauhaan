@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  💡 <b>Full-Stack Developer | Open Source Contributor | Tech Enthusiast | Freelance </b>  
+  💡 <b>Full-Stack Developer | FrontEnd Developer | Tech Enthusiast | Freelance </b>  
 </p>
 
 <p>
