@@ -1,25 +1,15 @@
- 👋 Hi there, I'm @vivek-chauhaan
-
-💡 **Full-Stack Developer | Open Source Contributor | Tech Enthusiast**  
-📍 Based in Noida 
-🚀 Passionate about building scalable web applications  
-💻 Currently working on [Your Project Name]  
-
-
-
-
 <h1 align="center"> 
    👋 Hi there, I'm @vivek-chauhaan 
 </h1>
 
 <p align="center">
-  💡 <b>Full-Stack Developer | Open Source Contributor | Tech Enthusiast</b>  
+  💡 <b>Full-Stack Developer | Open Source Contributor | Tech Enthusiast | Freelance </b>  
 </p>
 
 <p align="center">
-  📍 Based in <b>[Your Location]</b> <br>
+  📍 Based in <b>Noida</b> <br>
   🚀 Passionate about building scalable web applications <br>
-  💻 Currently working on <b>[Your Project Name]</b> <br>
+  💻 Currently working on <b>Freelance Project</b> <br>
   🔥 Love coding, learning new tech, and sharing knowledge!  
 </p>
 
@@ -28,9 +18,8 @@
 ### 🌟 About Me  
 
 - 🎯 **Focused on:** Next.js, React, MongoDB, Tailwind CSS  
-- 🔭 **Currently Building:** [Your Project Name](#)  
-- 🌱 **Learning:** DevOps, AI, and Advanced Backend Systems  
-- 🤝 **Open to Collaborations:** Startups, Open Source, and Hackathons  
+- 🔭 **Currently Building:** Pg-Booking Managemnt 
+- 🌱 **Learning:** DevOps, AI, and Advanced Backend Systems    
 - 💬 **Ask me about:** JavaScript, Web Performance, and Scalable Architectures  
 - ⚡ **Fun Fact:** I turn ☕ into clean code!  
 
