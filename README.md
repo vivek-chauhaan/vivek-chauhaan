@@ -1,12 +1,12 @@
-<h1 align="center"> 
+<h1> 
    👋 Hi there, I'm @vivek-chauhaan 
 </h1>
 
-<p align="center">
+<p>
   💡 <b>Full-Stack Developer | Open Source Contributor | Tech Enthusiast | Freelance </b>  
 </p>
 
-<p align="center">
+<p>
   📍 Based in <b>Noida</b> <br>
   🚀 Passionate about building scalable web applications <br>
   💻 Currently working on <b>Freelance Project</b> <br>
